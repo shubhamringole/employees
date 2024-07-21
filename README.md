@@ -1,5 +1,7 @@
 ### How to Load the Sample Database `test_db` for MySQL
 
+![image](https://github.com/user-attachments/assets/bf49ee56-9730-4ba5-afe5-f370dcf605b4)
+
 In this guide, you'll learn step-by-step how to load the `test_db` sample database into MySQL. This database contains comprehensive data for testing purposes, including employee records and salary entries.
 
 #### Prerequisites
